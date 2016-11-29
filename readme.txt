@@ -6,11 +6,10 @@
 
 Для первой:
 Ссылка на GitHub: https://github.com/maxmelon/netology-homework-10-1
-Ссылка на хостинг нетологии: http://university.netology.ru/u/geynbihner/netology-homework-10-1/index.php
 
 Для второй:
 Ссылка на GitHub: https://github.com/maxmelon/netology-homework-10-2
-Ссылка на хостинг нетологии: http://university.netology.ru/u/geynbihner/netology-homework-10-2/index.php
+Здесь прикрутил небольшую форму для наглядности. Ссылка на хостинг нетологии: http://university.netology.ru/u/geynbihner/netology-homework-10-2/index.php
 
 Ответы на вопросы:
 1. Распишите своё понимание полиморфизма и наследования. Своими словами. Представьте, что вас спрашивают на собеседованиии.
